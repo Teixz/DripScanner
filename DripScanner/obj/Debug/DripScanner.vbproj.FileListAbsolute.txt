@@ -1,0 +1,13 @@
+c:\users\fernanda\source\repos\DripScanner\DripScanner\bin\Debug\DripScanner.exe.config
+c:\users\fernanda\source\repos\DripScanner\DripScanner\bin\Debug\DripScanner.exe
+c:\users\fernanda\source\repos\DripScanner\DripScanner\bin\Debug\DripScanner.pdb
+c:\users\fernanda\source\repos\DripScanner\DripScanner\bin\Debug\DripScanner.xml
+c:\users\fernanda\source\repos\DripScanner\DripScanner\bin\Debug\DotNetAobScanMemory.dll
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.vbprojResolveAssemblyReference.cache
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.Resources.resources
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.vbproj.GenerateResource.cache
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.vbproj.CoreCompileInputs.cache
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.vbproj.CopyComplete
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.exe
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.xml
+c:\users\fernanda\source\repos\DripScanner\DripScanner\obj\Debug\DripScanner.pdb
